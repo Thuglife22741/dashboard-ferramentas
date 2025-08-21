@@ -78,11 +78,8 @@ const Footer = () => {
         <div className="border-t border-gray-700 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <div className="text-center md:text-left">
-              <p className="text-gray-400 text-sm mb-2">
+              <p className="text-gray-400 text-sm">
                 © 2025 BORGES MÍDIA NEGÓCIOS DIGITAIS LTDA
-              </p>
-              <p className="text-gray-500 text-xs">
-                CNPJ: 44.838.666/0001-99
               </p>
             </div>
             
