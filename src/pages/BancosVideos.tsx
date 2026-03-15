@@ -121,6 +121,16 @@ const BancosVideos = () => {
       image: "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=400&h=300&fit=crop",
       link: "https://supa.video/",
       category: "Bancos de Vídeos"
+    },
+    {
+      title: "Storyblocks",
+      description: "Biblioteca ilimitada de vídeos, áudio e imagens",
+      detailedDescription: "Storyblocks oferece uma biblioteca ilimitada de vídeos, áudio e imagens royalty-free com planos de assinatura acessíveis. Ideal para criadores de conteúdo e profissionais que precisam de mídia de alta qualidade sem preocupações com licenciamento.",
+      icon: "🎬",
+      image: "https://images.unsplash.com/photo-1536240478700-b869070f9279?w=400&h=300&fit=crop",
+      link: "https://www.storyblocks.com/",
+      category: "Bancos de Vídeos",
+      isNew: true
     }
   ];
 
