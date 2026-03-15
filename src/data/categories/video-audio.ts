@@ -12,7 +12,11 @@ export const ferramentasVideoTools: Tool[] = [
   { title: "DaVinci Resolve", description: "Edição profissional gratuita", icon: "🎬" },
   { title: "Final Cut Pro", description: "Edição profissional para Mac", icon: "🍎" },
   { title: "Adobe Premiere", description: "Edição profissional da Adobe", icon: "🎞️" },
-  { title: "CapCut", description: "Edição mobile e desktop", icon: "📱" }
+  { title: "CapCut", description: "Edição mobile e desktop", icon: "📱" },
+  { title: "JSON2Video", description: "Converte JSON em vídeo automaticamente", icon: "🎞️", isNew: true },
+  { title: "Vheer", description: "Transforma imagem em vídeo com IA", icon: "🖼️", isNew: true },
+  { title: "img2go", description: "Converter vídeo para GIF online", icon: "🔄", isNew: true },
+  { title: "Online-Convert", description: "Converter vídeos curtos em GIF", icon: "🔁", isNew: true }
 ];
 
 export const bancosVideosTools: Tool[] = [
