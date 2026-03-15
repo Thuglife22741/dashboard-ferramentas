@@ -25,6 +25,8 @@ import { ferramentasSMSTools } from './categories/sms';
 import { baixadoresUniversaisTools } from './categories/baixadores-universais';
 import { criacaoSitesIATools } from './categories/criacao-sites-ia';
 import { shopifyTools } from './categories/shopify';
+import { ferramentasDesenvolvimentoTools } from './categories/desenvolvimento';
+import { automacaoIntegracaoTools } from './categories/automacao-integracao';
 
 export const categoriesData: Category[] = [
   {
