@@ -200,5 +200,13 @@ export const categoriesData: Category[] = [
   {
     title: "Shopify",
     tools: shopifyTools
+  },
+  {
+    title: "Ferramentas de Desenvolvimento",
+    tools: ferramentasDesenvolvimentoTools
+  },
+  {
+    title: "Automação e Integração",
+    tools: automacaoIntegracaoTools
   }
 ];

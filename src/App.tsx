@@ -110,6 +110,8 @@ const App = () => (
             <Route path="/baixadores-universais" element={<BaixadoresUniversais />} />
             <Route path="/criacao-sites-ia" element={<CriacaoSitesIA />} />
             <Route path="/shopify" element={<Shopify />} />
+            <Route path="/ferramentas-desenvolvimento" element={<FerramentasDesenvolvimento />} />
+            <Route path="/automacao-integracao" element={<AutomacaoIntegracao />} />
             <Route path="/favoritos" element={<Favoritos />} />
             <Route path="/privacy-policy" element={<PrivacyPolicy />} />
             <Route path="/terms-of-service" element={<TermsOfService />} />

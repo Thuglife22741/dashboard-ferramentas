@@ -60,7 +60,9 @@ const getCategoryImage = (category: string) => {
     "Provadores de Roupas Virtuais": "https://images.unsplash.com/photo-1523712999610-f77fbcfc3843?w=400&h=600&fit=crop",
     "Baixadores Universais": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=600&fit=crop",
     "Criação de Sites por IA": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=400&h=600&fit=crop",
-    "Criação de SaaS por IA": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=400&h=600&fit=crop"
+    "Criação de SaaS por IA": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=400&h=600&fit=crop",
+    "Ferramentas de Desenvolvimento": "https://images.unsplash.com/photo-1629654297299-c8506221ca97?w=400&h=600&fit=crop",
+    "Automação e Integração": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=600&fit=crop"
   };
   
   return categoryImages[category] || "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=400&h=600&fit=crop";
