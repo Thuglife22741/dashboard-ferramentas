@@ -188,6 +188,16 @@ const FerramentasMetaAds = () => {
       link: "https://tintim.app/",
       category: "Ferramentas para Meta Ads",
       isNew: true
+    },
+    {
+      title: "Denote",
+      description: "Extensão para salvar anúncios do TikTok, Facebook e mais",
+      detailedDescription: "Denote é uma extensão de navegador essencial para profissionais de marketing que permite salvar e organizar anúncios de diferentes plataformas como TikTok, Facebook e Google Ads. Facilita a análise competitiva e inspiração criativa.",
+      icon: "📌",
+      image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=400&h=300&fit=crop",
+      link: "https://chromewebstore.google.com/detail/denote-save-ads-tk-fb-ad/okieokifcnnigcgceookjighhplbhcip?hl=en&utm_source=dn_chrome_extension",
+      category: "Ferramentas para Meta Ads",
+      isNew: true
     }
   ];
 

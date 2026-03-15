@@ -150,6 +150,16 @@ const NarracaoIA = () => {
       image: "https://images.unsplash.com/photo-1589254065878-42c9da997008?w=400&h=600&fit=crop&auto=format",
       link: "https://www.voicefy.com.br/",
       category: "Narração por IA"
+    },
+    {
+      title: "MiniMax Audio",
+      description: "Clone sua voz com IA avançada e crie áudios realistas.",
+      detailedDescription: "MiniMax Audio é uma plataforma de clonagem de voz por IA que permite criar réplicas realistas da sua voz. Ideal para criadores de conteúdo, podcasters e profissionais que precisam de narração personalizada em escala.",
+      icon: "🎤",
+      image: "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?w=400&h=600&fit=crop&auto=format",
+      link: "https://www.minimax.io/audio",
+      category: "Narração por IA",
+      isNew: true
     }
   ];
 

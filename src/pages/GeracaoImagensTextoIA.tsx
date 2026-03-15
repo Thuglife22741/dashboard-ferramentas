@@ -117,6 +117,16 @@ const GeracaoImagensTextoIA = () => {
       link: "https://3d.csm.ai/",
       category: "Geração de Imagens por Texto (Text-to-Image IA)",
       isNew: true
+    },
+    {
+      title: "HiDream",
+      description: "Gerador de imagens free text com IA avançada",
+      detailedDescription: "HiDream é uma plataforma de geração de imagens por texto que utiliza IA avançada para criar imagens impressionantes a partir de descrições textuais. Interface intuitiva e resultados de alta qualidade para artistas e criadores.",
+      icon: "💭",
+      image: "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=400&h=300&fit=crop",
+      link: "https://hidream.org/",
+      category: "Geração de Imagens por Texto (Text-to-Image IA)",
+      isNew: true
     }
   ];
 

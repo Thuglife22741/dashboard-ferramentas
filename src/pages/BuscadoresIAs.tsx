@@ -37,6 +37,24 @@ const BuscadoresIAs = () => {
       icon: "🤗",
       image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&h=400&fit=crop",
       link: "https://huggingface.co/"
+    },
+    {
+      title: "The AI Bucket",
+      description: "Site completo com várias ferramentas de IAs organizadas por categoria.",
+      detailedDescription: "The AI Bucket é um diretório abrangente que reúne diversas ferramentas de inteligência artificial organizadas por categoria. Uma referência completa para encontrar soluções de IA para qualquer necessidade, desde geração de conteúdo até automação de processos.",
+      icon: "🪣",
+      image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&h=400&fit=crop",
+      link: "https://theaibucket.com/",
+      isNew: true
+    },
+    {
+      title: "Toolify",
+      description: "Diretório completo com todas as ferramentas de inteligência artificial do mercado.",
+      detailedDescription: "Toolify é um dos maiores diretórios de ferramentas de IA do mundo, catalogando milhares de soluções de inteligência artificial. Com filtros avançados por categoria, preço e funcionalidade, facilita a descoberta da ferramenta perfeita para qualquer projeto.",
+      icon: "🧰",
+      image: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&h=400&fit=crop",
+      link: "https://www.toolify.ai/",
+      isNew: true
     }
   ];
 

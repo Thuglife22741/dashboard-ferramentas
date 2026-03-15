@@ -71,6 +71,33 @@ const OrganizacaoProcessoProdutividade = () => {
       image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop",
       link: "https://zapier.com",
       isNew: true
+    },
+    {
+      title: "Tally",
+      description: "Criador de formulários gratuito, simples e poderoso.",
+      detailedDescription: "Tally é uma ferramenta gratuita para criação de formulários online com interface intuitiva. Permite criar pesquisas, questionários e formulários de coleta de dados sem limitações, com design moderno e integrações com diversas plataformas.",
+      icon: "📋",
+      image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=600&h=400&fit=crop",
+      link: "https://tally.so/",
+      isNew: true
+    },
+    {
+      title: "DataCrazy",
+      description: "CRM moderno e completo para gestão de clientes e vendas.",
+      detailedDescription: "DataCrazy é um CRM inovador que oferece ferramentas completas para gestão de relacionamento com clientes, pipeline de vendas, automações e análises detalhadas. Interface moderna e fácil de usar para equipes de todos os tamanhos.",
+      icon: "📊",
+      image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&fit=crop",
+      link: "https://datacrazy.io/",
+      isNew: true
+    },
+    {
+      title: "TinyWow",
+      description: "Todas as ferramentas em uma só plataforma gratuita.",
+      detailedDescription: "TinyWow reúne dezenas de ferramentas úteis em uma única plataforma gratuita: conversão de arquivos, edição de imagens, ferramentas de PDF, IA para textos e muito mais. Solução completa para produtividade sem necessidade de cadastro.",
+      icon: "🔧",
+      image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&fit=crop",
+      link: "https://tinywow.com/",
+      isNew: true
     }
   ];
 
