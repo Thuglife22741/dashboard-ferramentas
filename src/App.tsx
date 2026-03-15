@@ -51,6 +51,8 @@ import FerramentasSMS from "./pages/FerramentasSMS";
 import BaixadoresUniversais from "./pages/BaixadoresUniversais";
 import CriacaoSitesIA from "./pages/CriacaoSitesIA";
 import Shopify from "./pages/Shopify";
+import FerramentasDesenvolvimento from "./pages/FerramentasDesenvolvimento";
+import AutomacaoIntegracao from "./pages/AutomacaoIntegracao";
 import PrivacyPolicy from "./pages/PrivacyPolicy";
 import TermsOfService from "./pages/TermsOfService";
 
