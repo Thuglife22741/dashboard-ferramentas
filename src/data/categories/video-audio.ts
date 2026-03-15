@@ -18,7 +18,8 @@ export const ferramentasVideoTools: Tool[] = [
 export const bancosVideosTools: Tool[] = [
   { title: "Pexels Videos", description: "Vídeos gratuitos de qualidade", icon: "🎥" },
   { title: "Videvo", description: "Clips de vídeo gratuitos", icon: "📹" },
-  { title: "Shutterstock Videos", description: "Vídeos profissionais premium", icon: "🎬" }
+  { title: "Shutterstock Videos", description: "Vídeos profissionais premium", icon: "🎬" },
+  { title: "Storyblocks", description: "Biblioteca ilimitada de vídeos, áudio e imagens", icon: "🎬", isNew: true }
 ];
 
 export const narracaoIATools: Tool[] = [
