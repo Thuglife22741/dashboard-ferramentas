@@ -19,7 +19,9 @@ export const designGeralTools: Tool[] = [
   { title: "Canva", description: "Design gráfico simplificado", icon: "🎨" },
   { title: "Figma", description: "Design colaborativo e prototipagem", icon: "🎯" },
   { title: "Adobe Creative Suite", description: "Suite profissional de design", icon: "🎨" },
-  { title: "Sketch", description: "Design de interfaces", icon: "✏️" }
+  { title: "Sketch", description: "Design de interfaces", icon: "✏️" },
+  { title: "Artistly", description: "Criar livros de colorir com IA", icon: "🖍️", isNew: true },
+  { title: "SupaWork", description: "Retirar marca d'água de imagens com IA", icon: "🧹", isNew: true }
 ];
 
 export const identidadeMarcaTools: Tool[] = [

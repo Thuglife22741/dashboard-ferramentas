@@ -19,5 +19,6 @@ export const geracaoImagensTextoIATools: Tool[] = [
   { title: "DALL-E 3", description: "Gerador de imagens da OpenAI", icon: "🖼️", isNew: true },
   { title: "Midjourney", description: "Arte digital de alta qualidade", icon: "🎨" },
   { title: "Stable Diffusion", description: "Geração de imagens open source", icon: "🌊" },
-  { title: "Leonardo.ai", description: "Criação de arte e imagens para games", icon: "🎮" }
+  { title: "Leonardo.ai", description: "Criação de arte e imagens para games", icon: "🎮" },
+  { title: "HiDream", description: "Gerador de imagens free text com IA", icon: "💭", isNew: true }
 ];

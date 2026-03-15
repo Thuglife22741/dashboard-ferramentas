@@ -30,7 +30,8 @@ export const narracaoIATools: Tool[] = [
   { title: "ElevenLabs", description: "Vozes IA ultra-realistas", icon: "🗣️" },
   { title: "Murf", description: "Narração profissional com IA", icon: "🎙️" },
   { title: "Speechify", description: "Texto para fala avançado", icon: "📢" },
-  { title: "Natural Reader", description: "Leitura de textos com vozes naturais", icon: "👄" }
+  { title: "Natural Reader", description: "Leitura de textos com vozes naturais", icon: "👄" },
+  { title: "MiniMax Audio", description: "Clone sua voz com IA avançada", icon: "🎤", isNew: true }
 ];
 
 export const geradoresLegendas: Tool[] = [
