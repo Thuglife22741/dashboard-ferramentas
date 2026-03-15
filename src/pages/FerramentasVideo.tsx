@@ -227,6 +227,46 @@ const FerramentasVideo = () => {
       link: "https://www.story.com/?page=1&sort=top-today",
       category: "Ferramentas de Vídeo",
       isNew: true
+    },
+    {
+      title: "JSON2Video",
+      description: "Converte JSON em vídeo automaticamente",
+      detailedDescription: "JSON2Video é uma API poderosa que permite criar vídeos programaticamente a partir de dados JSON. Ideal para automação de produção de vídeos em escala, personalizando conteúdo dinamicamente.",
+      icon: "🎞️",
+      image: "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=400&h=300&fit=crop",
+      link: "https://json2video.com/?afco=robonuggets",
+      category: "Ferramentas de Vídeo",
+      isNew: true
+    },
+    {
+      title: "Vheer",
+      description: "Transforma imagem em vídeo com IA",
+      detailedDescription: "Vheer utiliza inteligência artificial para transformar imagens estáticas em vídeos dinâmicos e envolventes. Basta enviar uma imagem e a IA cria animações realistas automaticamente.",
+      icon: "🖼️",
+      image: "https://images.unsplash.com/photo-1626785774573-4b799315345d?w=400&h=300&fit=crop",
+      link: "https://vheer.com/app/image-to-video",
+      category: "Ferramentas de Vídeo",
+      isNew: true
+    },
+    {
+      title: "img2go",
+      description: "Converter vídeo para GIF online gratuitamente",
+      detailedDescription: "img2go é uma ferramenta online gratuita para converter vídeos em GIFs animados. Interface simples e intuitiva que permite ajustar qualidade, tamanho e duração do GIF resultante.",
+      icon: "🔄",
+      image: "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=400&h=300&fit=crop",
+      link: "https://www.img2go.com/pt/converter-video-para-gif",
+      category: "Ferramentas de Vídeo",
+      isNew: true
+    },
+    {
+      title: "Online-Convert",
+      description: "Converter vídeos curtos em GIF e outros formatos",
+      detailedDescription: "Online-Convert é uma plataforma completa de conversão de mídia que permite converter vídeos em GIFs animados e diversos outros formatos. Suporta múltiplos formatos de entrada e oferece opções avançadas de configuração.",
+      icon: "🔁",
+      image: "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=400&h=300&fit=crop",
+      link: "https://www.online-convert.com/pt/result",
+      category: "Ferramentas de Vídeo",
+      isNew: true
     }
   ];
 

@@ -4,7 +4,8 @@ import { Tool } from '@/types';
 export const ferramentasMetaAdsTools: Tool[] = [
   { title: "Meta Ads Manager", description: "Gestão oficial de anúncios Meta", icon: "📱" },
   { title: "AdEspresso", description: "Otimização de campanhas Meta", icon: "☕" },
-  { title: "Revealbot", description: "Automação para Meta Ads", icon: "🤖" }
+  { title: "Revealbot", description: "Automação para Meta Ads", icon: "🤖" },
+  { title: "Denote", description: "Extensão para salvar anúncios do TikTok, Facebook e mais", icon: "📌", isNew: true }
 ];
 
 export const emailMarketingIATools: Tool[] = [

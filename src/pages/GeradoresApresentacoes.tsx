@@ -42,6 +42,16 @@ const GeradoresApresentacoes = () => {
       image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400&h=300&fit=crop",
       link: "https://www.edrawsoft.com/pt/ad/edraw-max-brand.html",
       category: "Geradores de Apresentações"
+    },
+    {
+      title: "SmallPPT",
+      description: "Cria apresentações profissionais com IA automaticamente",
+      detailedDescription: "SmallPPT é uma ferramenta similar ao Gamma que permite criar apresentações profissionais usando inteligência artificial. Gere slides completos a partir de prompts de texto, com design automático e templates modernos.",
+      icon: "📑",
+      image: "https://images.unsplash.com/photo-1557426272-fc759fdf7a8d?w=400&h=300&fit=crop",
+      link: "https://smallppt.com/",
+      category: "Geradores de Apresentações",
+      isNew: true
     }
   ];
 

@@ -127,6 +127,26 @@ const DesignGeral = () => {
       link: "https://glif.app/glifs",
       category: "Design Geral",
       isNew: true
+    },
+    {
+      title: "Artistly",
+      description: "Criar livros de colorir com inteligência artificial",
+      detailedDescription: "Artistly é uma ferramenta inovadora que utiliza IA para criar livros de colorir personalizados. Ideal para criadores de conteúdo, educadores e empreendedores que desejam produzir material de colorir único e atrativo.",
+      icon: "🖍️",
+      image: "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=400&h=300&fit=crop",
+      link: "https://artistly.ai/",
+      category: "Design Geral",
+      isNew: true
+    },
+    {
+      title: "SupaWork",
+      description: "Retirar marca d'água de imagens com IA",
+      detailedDescription: "SupaWork utiliza inteligência artificial avançada para remover marcas d'água de imagens de forma rápida e precisa, mantendo a qualidade original da imagem. Ferramenta essencial para designers e criadores de conteúdo.",
+      icon: "🧹",
+      image: "https://images.unsplash.com/photo-1558655146-364adaf1fcc9?w=400&h=300&fit=crop",
+      link: "https://supawork.ai/",
+      category: "Design Geral",
+      isNew: true
     }
   ];
 

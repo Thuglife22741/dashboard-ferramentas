@@ -51,6 +51,8 @@ import FerramentasSMS from "./pages/FerramentasSMS";
 import BaixadoresUniversais from "./pages/BaixadoresUniversais";
 import CriacaoSitesIA from "./pages/CriacaoSitesIA";
 import Shopify from "./pages/Shopify";
+import FerramentasDesenvolvimento from "./pages/FerramentasDesenvolvimento";
+import AutomacaoIntegracao from "./pages/AutomacaoIntegracao";
 import PrivacyPolicy from "./pages/PrivacyPolicy";
 import TermsOfService from "./pages/TermsOfService";
 
@@ -108,6 +110,8 @@ const App = () => (
             <Route path="/baixadores-universais" element={<BaixadoresUniversais />} />
             <Route path="/criacao-sites-ia" element={<CriacaoSitesIA />} />
             <Route path="/shopify" element={<Shopify />} />
+            <Route path="/ferramentas-desenvolvimento" element={<FerramentasDesenvolvimento />} />
+            <Route path="/automacao-integracao" element={<AutomacaoIntegracao />} />
             <Route path="/favoritos" element={<Favoritos />} />
             <Route path="/privacy-policy" element={<PrivacyPolicy />} />
             <Route path="/terms-of-service" element={<TermsOfService />} />

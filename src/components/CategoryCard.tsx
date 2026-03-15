@@ -58,6 +58,8 @@ const CategoryCard = ({ title, description, icon, image }: CategoryCardProps) =>
       "Baixadores Universais": "/baixadores-universais",
       "Criação de Sites por IA": "/criacao-sites-ia",
       "Shopify": "/shopify",
+      "Ferramentas de Desenvolvimento": "/ferramentas-desenvolvimento",
+      "Automação e Integração": "/automacao-integracao",
     };
     
     return routes[title] || "/";

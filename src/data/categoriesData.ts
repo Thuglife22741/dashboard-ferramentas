@@ -293,5 +293,19 @@ export const categoriesData = [
     description: "Aplicativos e ferramentas essenciais para lojas Shopify, desde templates até automações.",
     icon: "🛍️",
     image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400&h=600&fit=crop&auto=format"
+  },
+  {
+    id: 48,
+    title: "Ferramentas de Desenvolvimento",
+    description: "Ferramentas essenciais para desenvolvedores: clientes SSH, validadores JSON, bibliotecas e hospedagem DNS.",
+    icon: "🛠️",
+    image: "https://images.unsplash.com/photo-1629654297299-c8506221ca97?w=400&h=600&fit=crop&auto=format"
+  },
+  {
+    id: 49,
+    title: "Automação e Integração",
+    description: "Plataformas para automatizar fluxos de trabalho e integrar sistemas sem código.",
+    icon: "🔗",
+    image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=600&fit=crop&auto=format"
   }
 ];
