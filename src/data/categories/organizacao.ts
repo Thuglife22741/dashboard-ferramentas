@@ -9,5 +9,6 @@ export const organizacaoTools: Tool[] = [
   { title: "ClickUp AI", description: "Plataforma completa de produtividade com IA", icon: "🚀" },
   { title: "Tally", description: "Criador de formulários gratuito e intuitivo", icon: "📋", isNew: true },
   { title: "DataCrazy", description: "CRM moderno e completo para gestão de clientes", icon: "📊", isNew: true },
-  { title: "TinyWow", description: "Todas as ferramentas em uma só plataforma", icon: "🔧", isNew: true }
+  { title: "TinyWow", description: "Todas as ferramentas em uma só plataforma", icon: "🔧", isNew: true },
+  { title: "MapOS", description: "Sistema de gestão de ordens de serviço", icon: "🔧", isNew: true }
 ];
