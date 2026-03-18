@@ -147,6 +147,26 @@ const DesignGeral = () => {
       link: "https://supawork.ai/",
       category: "Design Geral",
       isNew: true
+    },
+    {
+      title: "YoPrintables",
+      description: "Criar imagens por IA para colorir",
+      detailedDescription: "YoPrintables utiliza IA para criar imagens prontas para colorir, ideal para produção de livros de colorir, material educacional e conteúdo criativo para crianças e adultos.",
+      icon: "🎨",
+      image: "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=400&h=300&fit=crop",
+      link: "https://yoprintables.com/",
+      category: "Design Geral",
+      isNew: true
+    },
+    {
+      title: "MagickImg",
+      description: "Criar stickers animados com IA",
+      detailedDescription: "MagickImg é uma ferramenta para criar stickers animados personalizados usando inteligência artificial. Ideal para criar figurinhas para WhatsApp, Telegram e outras plataformas de mensagens.",
+      icon: "✨",
+      image: "https://images.unsplash.com/photo-1626785774573-4b799315345d?w=400&h=300&fit=crop",
+      link: "https://magickimg.com/",
+      category: "Design Geral",
+      isNew: true
     }
   ];
 

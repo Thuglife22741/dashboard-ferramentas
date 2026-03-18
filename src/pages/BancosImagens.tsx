@@ -127,6 +127,16 @@ const BancosImagens = () => {
       link: "https://glif.app/glifs",
       category: "Bancos de Imagens",
       isNew: true
+    },
+    {
+      title: "123RF",
+      description: "Banco de imagens e criação de imagens por texto com IA",
+      detailedDescription: "123RF é uma plataforma completa que oferece banco de imagens de alta qualidade e também ferramentas de criação de imagens por texto usando inteligência artificial. Milhões de recursos visuais para uso comercial.",
+      icon: "🖼️",
+      image: "https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?w=400&h=300&fit=crop",
+      link: "https://br.123rf.com/",
+      category: "Bancos de Imagens",
+      isNew: true
     }
   ];
 
