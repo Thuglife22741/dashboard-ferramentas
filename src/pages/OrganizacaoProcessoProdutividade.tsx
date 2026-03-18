@@ -98,6 +98,15 @@ const OrganizacaoProcessoProdutividade = () => {
       image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&fit=crop",
       link: "https://tinywow.com/",
       isNew: true
+    },
+    {
+      title: "MapOS",
+      description: "Sistema de gestão de ordens de serviço completo e gratuito.",
+      detailedDescription: "MapOS é um sistema open source e gratuito para gestão de ordens de serviço, controle de clientes, produtos, estoque e financeiro. Ideal para assistências técnicas, oficinas e prestadores de serviço.",
+      icon: "🔧",
+      image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&fit=crop",
+      link: "https://mapos.com.br/#",
+      isNew: true
     }
   ];
 

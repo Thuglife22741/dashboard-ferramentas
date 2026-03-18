@@ -55,5 +55,14 @@ export const ferramentasDesenvolvimentoTools: Tool[] = [
     image: "https://images.unsplash.com/photo-1629654297299-c8506221ca97?w=400&h=300&fit=crop",
     link: "https://termius.com/",
     isNew: true
+  },
+  {
+    title: "Kilo.ai",
+    description: "Programe com IA gratuitamente com créditos flexíveis",
+    detailedDescription: "Kilo.ai oferece uma plataforma para programar com IA gratuitamente, com preços transparentes e créditos que você adiciona conforme necessário — sem necessidade de assinatura mensal.",
+    icon: "🤖",
+    image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=300&fit=crop",
+    link: "https://kilo.ai/pricing",
+    isNew: true
   }
 ];

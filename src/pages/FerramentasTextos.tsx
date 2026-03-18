@@ -133,6 +133,16 @@ const FerramentasTextos = () => {
       image: "https://images.unsplash.com/photo-1558655146-364adaf1fcc9?w=400&h=300&fit=crop",
       link: "https://www.invertexto.com/",
       category: "Ferramentas de Textos"
+    },
+    {
+      title: "LightPDF",
+      description: "IA que edita PDF de forma inteligente",
+      detailedDescription: "LightPDF é uma ferramenta de IA para edição de PDFs que permite converter, editar, comprimir e manipular documentos PDF de forma rápida e inteligente. Suporta OCR e diversas funcionalidades avançadas.",
+      icon: "📄",
+      image: "https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=400&h=300&fit=crop",
+      link: "https://lightpdf.com/pt/",
+      category: "Ferramentas de Textos",
+      isNew: true
     }
   ];
 

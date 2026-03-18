@@ -33,5 +33,14 @@ export const baixadoresUniversaisTools: Tool[] = [
     icon: "🔽",
     image: "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=400&h=300&fit=crop",
     link: "https://chromewebstore.google.com/detail/fetchv-baixador-de-v%C3%ADdeos/nfmmmhanepmpifddlkkmihkalkoekpfd"
+  },
+  {
+    title: "FDown",
+    description: "Baixa vídeos do Facebook gratuitamente",
+    detailedDescription: "FDown é uma ferramenta online gratuita para baixar vídeos do Facebook em alta qualidade. Basta colar o link do vídeo e fazer o download rapidamente, sem necessidade de instalação.",
+    icon: "📘",
+    image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=400&h=300&fit=crop",
+    link: "https://fdown.net/",
+    isNew: true
   }
 ];

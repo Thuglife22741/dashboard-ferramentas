@@ -174,5 +174,14 @@ export const trilhaSonoraIATools: Tool[] = [
     image: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop",
     link: "https://boomy.com/",
     isNew: true
+  },
+  { 
+    title: "Tempolor", 
+    description: "Gerador de música por IA para projetos criativos", 
+    detailedDescription: "Tempolor é um gerador de música por inteligência artificial que cria trilhas sonoras originais para seus projetos. Interface simples para gerar músicas personalizadas em diferentes estilos e gêneros.",
+    icon: "🎵",
+    image: "https://images.unsplash.com/photo-1511379938547-c1f69419868d?w=800&h=400&fit=crop",
+    link: "https://www.tempolor.com/",
+    isNew: true
   }
 ];

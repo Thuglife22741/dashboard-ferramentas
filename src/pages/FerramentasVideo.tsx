@@ -267,6 +267,16 @@ const FerramentasVideo = () => {
       link: "https://www.online-convert.com/pt/result",
       category: "Ferramentas de Vídeo",
       isNew: true
+    },
+    {
+      title: "Restream",
+      description: "Transmita ao vivo para mais de 30 plataformas simultaneamente",
+      detailedDescription: "Restream permite fazer uma única transmissão ao vivo e distribuí-la para mais de 30 destinos simultaneamente. Transmita em múltiplos formatos e alcance seu público onde quer que ele esteja, incluindo YouTube, Twitch, Facebook e mais.",
+      icon: "📡",
+      image: "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=400&h=300&fit=crop",
+      link: "https://restream.io/",
+      category: "Ferramentas de Vídeo",
+      isNew: true
     }
   ];
 

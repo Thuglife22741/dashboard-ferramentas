@@ -305,5 +305,23 @@ export const shopifyTools: Tool[] = [
     icon: "📈",
     image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400&h=300&fit=crop",
     link: "https://www.igoal.com.br/"
+  },
+  {
+    title: "TrueProfit",
+    description: "Acompanhe instantaneamente seu Lucro Real na Shopify",
+    detailedDescription: "TrueProfit é um aplicativo Shopify que permite acompanhar instantaneamente seu lucro real em tempo real. Analisa custos, receitas e margens para dar uma visão clara da saúde financeira da sua loja.",
+    icon: "💰",
+    image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400&h=300&fit=crop",
+    link: "https://apps.shopify.com/trueprofit?utm_source=trueprofit.io&utm_medium=free-trial-pop-up&locale=pt-BR",
+    isNew: true
+  },
+  {
+    title: "Shopline",
+    description: "Plataforma de e-commerce chinesa alternativa ao Shopify",
+    detailedDescription: "Shopline é uma plataforma de e-commerce global originária da China, oferecendo funcionalidades similares ao Shopify com foco no mercado asiático. Ideal para quem busca alternativas com preços competitivos.",
+    icon: "🏪",
+    image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400&h=300&fit=crop",
+    link: "https://www.shopline.com/",
+    isNew: true
   }
 ];

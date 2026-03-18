@@ -12,7 +12,8 @@ export const bancosImagensTools: Tool[] = [
   { title: "Unsplash", description: "Fotos gratuitas de alta qualidade", icon: "📸" },
   { title: "Pexels", description: "Imagens e vídeos gratuitos", icon: "🖼️" },
   { title: "Shutterstock", description: "Banco de imagens premium", icon: "📷" },
-  { title: "Getty Images", description: "Imagens profissionais", icon: "🎬" }
+  { title: "Getty Images", description: "Imagens profissionais", icon: "🎬" },
+  { title: "123RF", description: "Banco de imagens e criação por IA", icon: "🖼️", isNew: true }
 ];
 
 export const geracaoImagensTextoIATools: Tool[] = [

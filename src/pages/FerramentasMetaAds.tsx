@@ -198,6 +198,16 @@ const FerramentasMetaAds = () => {
       link: "https://chromewebstore.google.com/detail/denote-save-ads-tk-fb-ad/okieokifcnnigcgceookjighhplbhcip?hl=en&utm_source=dn_chrome_extension",
       category: "Ferramentas para Meta Ads",
       isNew: true
+    },
+    {
+      title: "GGSpy",
+      description: "Extensão de espionagem para Facebook Ads",
+      detailedDescription: "GGSpy é uma extensão de espionagem para Facebook Ads que permite analisar anúncios de concorrentes, descobrir estratégias de campanha e encontrar inspiração para seus próprios criativos.",
+      icon: "🕵️",
+      image: "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=300&fit=crop",
+      link: "https://www.ggspy.com/#waitlist",
+      category: "Ferramentas para Meta Ads",
+      isNew: true
     }
   ];
 
