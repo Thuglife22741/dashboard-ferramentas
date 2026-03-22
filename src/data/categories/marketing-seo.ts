@@ -25,5 +25,6 @@ export const seoTools: Tool[] = [
 export const rastreamentoEventosTools: Tool[] = [
   { title: "Google Analytics", description: "Análise completa de tráfego", icon: "📊" },
   { title: "Meta Pixel", description: "Rastreamento para Meta Ads", icon: "👁️" },
-  { title: "Google Tag Manager", description: "Gerenciamento de tags", icon: "🏷️" }
+  { title: "Google Tag Manager", description: "Gerenciamento de tags", icon: "🏷️" },
+  { title: "Rybbit", description: "Substituto moderno do Google Analytics, leve e sem cookies", icon: "🐸", isNew: true }
 ];
