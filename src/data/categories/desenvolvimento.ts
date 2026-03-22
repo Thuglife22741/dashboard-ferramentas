@@ -73,5 +73,59 @@ export const ferramentasDesenvolvimentoTools: Tool[] = [
     image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400&h=300&fit=crop",
     link: "https://reqbin.com/post-online",
     isNew: true
+  },
+  {
+    title: "Visual Studio Code",
+    description: "Editor de código gratuito e poderoso da Microsoft",
+    detailedDescription: "VS Code é o editor de código mais popular do mundo, com suporte a extensões, depuração integrada, controle de versão Git, IntelliSense e terminal embutido. Essencial para qualquer desenvolvedor.",
+    icon: "💙",
+    image: "https://images.unsplash.com/photo-1629654297299-c8506221ca97?w=400&h=300&fit=crop",
+    link: "https://code.visualstudio.com/",
+    isNew: true
+  },
+  {
+    title: "VS Code Marketplace",
+    description: "Extensões e temas para Visual Studio Code",
+    detailedDescription: "O Marketplace do VS Code oferece milhares de extensões, temas e ferramentas para personalizar e ampliar as funcionalidades do editor. Encontre extensões para qualquer linguagem, framework ou fluxo de trabalho.",
+    icon: "🧩",
+    image: "https://images.unsplash.com/photo-1629654297299-c8506221ca97?w=400&h=300&fit=crop",
+    link: "https://marketplace.visualstudio.com/",
+    isNew: true
+  },
+  {
+    title: "Google Antigravity",
+    description: "IDE de próxima geração com IA agêntica do Google",
+    detailedDescription: "Google Antigravity é a plataforma de desenvolvimento autêntica do Google que evolui a IDE para a era agent-first. Oferece ferramentas avançadas de desenvolvimento com inteligência artificial integrada para acelerar o fluxo de trabalho.",
+    icon: "🚀",
+    image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=300&fit=crop",
+    link: "https://antigravity.google/",
+    isNew: true
+  },
+  {
+    title: "Vercel",
+    description: "Plataforma de deploy e hospedagem para frontend",
+    detailedDescription: "Vercel é a plataforma líder para deploy de aplicações frontend, oferecendo builds automáticos, CDN global, serverless functions e integração nativa com Next.js, React e outros frameworks modernos.",
+    icon: "▲",
+    image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400&h=300&fit=crop",
+    link: "https://vercel.com/",
+    isNew: true
+  },
+  {
+    title: "Netlify",
+    description: "Plataforma de deploy e hospedagem com CI/CD integrado",
+    detailedDescription: "Netlify oferece deploy automático, formulários, funções serverless e CDN global para sites e aplicações web. Integra-se com GitHub, GitLab e Bitbucket para deploys contínuos e previews automáticos.",
+    icon: "🌐",
+    image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400&h=300&fit=crop",
+    link: "https://app.netlify.com/",
+    isNew: true
+  },
+  {
+    title: "Render",
+    description: "Plataforma cloud unificada para deploy de apps e bancos de dados",
+    detailedDescription: "Render oferece hospedagem simplificada para aplicações web, APIs, bancos de dados, cron jobs e mais. Com deploy automático via Git, SSL gratuito e escalabilidade fácil, é uma alternativa moderna ao Heroku.",
+    icon: "☁️",
+    image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400&h=300&fit=crop",
+    link: "https://render.com/",
+    isNew: true
   }
 ];
