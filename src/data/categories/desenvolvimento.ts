@@ -64,5 +64,14 @@ export const ferramentasDesenvolvimentoTools: Tool[] = [
     image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=300&fit=crop",
     link: "https://kilo.ai/pricing",
     isNew: true
+  },
+  {
+    title: "ReqBin",
+    description: "Teste requisições HTTP/REST API online",
+    detailedDescription: "ReqBin é uma ferramenta online para testar requisições HTTP como POST, GET, PUT e DELETE diretamente no navegador. Ideal para desenvolvedores que precisam depurar e testar APIs rapidamente sem instalar nada.",
+    icon: "📡",
+    image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400&h=300&fit=crop",
+    link: "https://reqbin.com/post-online",
+    isNew: true
   }
 ];
