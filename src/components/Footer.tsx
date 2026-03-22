@@ -85,7 +85,7 @@ const Footer = () => {
             
             <div className="text-center md:text-right">
               <p className="text-gray-400 text-sm">
-                Cérebro Digital - Todos os direitos reservados.
+                Cérebro Digital - Todos os direitos reservados. By Fernando ©
               </p>
             </div>
           </div>
