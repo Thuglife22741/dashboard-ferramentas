@@ -163,6 +163,14 @@ const toolsData = [
     icon: "👁️",
     image: "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=400&h=600&fit=crop&auto=format",
     link: "https://brand24.com"
+  },
+  {
+    title: "Rybbit",
+    description: "Substituto moderno do Google Analytics, leve e sem cookies.",
+    detailedDescription: "Rybbit é uma ferramenta de análise poderosa, leve e fácil de usar. Sem cookies e em conformidade com o GDPR. Oferece web analytics, product analytics, funnels, journeys, retenção, replay de sessões e muito mais — tudo hospedado em infraestrutura europeia.",
+    icon: "🐸",
+    image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400&h=600&fit=crop&auto=format",
+    link: "https://rybbit.com/pt"
   }
 ];
 
