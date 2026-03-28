@@ -60,6 +60,8 @@ const CategoryCard = ({ title, description, icon, image }: CategoryCardProps) =>
       "Shopify": "/shopify",
       "Ferramentas de Desenvolvimento": "/ferramentas-desenvolvimento",
       "Automação e Integração": "/automacao-integracao",
+      "Bibliotecas de Componentes": "/bibliotecas-componentes",
+      "Galerias de Inspiração & Dashboards": "/galerias-inspiracao",
     };
     
     return routes[title] || "/";
