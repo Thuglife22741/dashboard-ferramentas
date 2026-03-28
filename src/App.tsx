@@ -53,6 +53,8 @@ import CriacaoSitesIA from "./pages/CriacaoSitesIA";
 import Shopify from "./pages/Shopify";
 import FerramentasDesenvolvimento from "./pages/FerramentasDesenvolvimento";
 import AutomacaoIntegracao from "./pages/AutomacaoIntegracao";
+import BibliotecasComponentes from "./pages/BibliotecasComponentes";
+import GaleriasInspiracao from "./pages/GaleriasInspiracao";
 import PrivacyPolicy from "./pages/PrivacyPolicy";
 import TermsOfService from "./pages/TermsOfService";
 
@@ -112,6 +114,8 @@ const App = () => (
             <Route path="/shopify" element={<Shopify />} />
             <Route path="/ferramentas-desenvolvimento" element={<FerramentasDesenvolvimento />} />
             <Route path="/automacao-integracao" element={<AutomacaoIntegracao />} />
+            <Route path="/bibliotecas-componentes" element={<BibliotecasComponentes />} />
+            <Route path="/galerias-inspiracao" element={<GaleriasInspiracao />} />
             <Route path="/favoritos" element={<Favoritos />} />
             <Route path="/privacy-policy" element={<PrivacyPolicy />} />
             <Route path="/terms-of-service" element={<TermsOfService />} />

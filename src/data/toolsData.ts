@@ -27,6 +27,8 @@ import { criacaoSitesIATools } from './categories/criacao-sites-ia';
 import { shopifyTools } from './categories/shopify';
 import { ferramentasDesenvolvimentoTools } from './categories/desenvolvimento';
 import { automacaoIntegracaoTools } from './categories/automacao-integracao';
+import { bibliotecasComponentesTools } from './categories/bibliotecas-componentes';
+import { galeriasInspiracaoTools } from './categories/galerias-inspiracao';
 
 export const categoriesData: Category[] = [
   {
@@ -208,5 +210,13 @@ export const categoriesData: Category[] = [
   {
     title: "Automação e Integração",
     tools: automacaoIntegracaoTools
+  },
+  {
+    title: "Bibliotecas de Componentes",
+    tools: bibliotecasComponentesTools
+  },
+  {
+    title: "Galerias de Inspiração & Dashboards",
+    tools: galeriasInspiracaoTools
   }
 ];

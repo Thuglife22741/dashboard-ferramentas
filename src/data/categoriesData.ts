@@ -307,5 +307,19 @@ export const categoriesData = [
     description: "Plataformas para automatizar fluxos de trabalho e integrar sistemas sem código.",
     icon: "🔗",
     image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=600&fit=crop&auto=format"
+  },
+  {
+    id: 50,
+    title: "Bibliotecas de Componentes",
+    description: "Código pronto para Tailwind CSS, Framer Motion e React. Componentes copy-paste para acelerar o desenvolvimento.",
+    icon: "🚀",
+    image: "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=400&h=600&fit=crop&auto=format"
+  },
+  {
+    id: 51,
+    title: "Galerias de Inspiração & Dashboards",
+    description: "Referências visuais e estruturais para design premium. Dashboards, landing pages e interfaces de alto nível.",
+    icon: "🎨",
+    image: "https://images.unsplash.com/photo-1558655146-364adaf1fcc9?w=400&h=600&fit=crop&auto=format"
   }
 ];

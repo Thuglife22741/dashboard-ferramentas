@@ -60,6 +60,8 @@ const categoryRoutes: Record<string, string> = {
   "Shopify": "/shopify",
   "Ferramentas de Desenvolvimento": "/ferramentas-desenvolvimento",
   "Automação e Integração": "/automacao-integracao",
+  "Bibliotecas de Componentes": "/bibliotecas-componentes",
+  "Galerias de Inspiração & Dashboards": "/galerias-inspiracao",
 };
 
 // Build flat search index once
