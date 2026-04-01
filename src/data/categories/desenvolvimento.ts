@@ -127,5 +127,32 @@ export const ferramentasDesenvolvimentoTools: Tool[] = [
     image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400&h=300&fit=crop",
     link: "https://render.com/",
     isNew: true
+  },
+  {
+    title: "LangChain",
+    description: "Framework para construir aplicações com LLMs",
+    detailedDescription: "LangChain é o framework líder para construir aplicações potencializadas por modelos de linguagem. Oferece ferramentas para encadear prompts, conectar a fontes de dados e criar agentes de IA autônomos.",
+    icon: "🦜",
+    image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=300&fit=crop",
+    link: "https://www.langchain.com/",
+    isNew: true
+  },
+  {
+    title: "LangSmith",
+    description: "Observabilidade e monitoramento para aplicações LLM",
+    detailedDescription: "LangSmith é a plataforma de observabilidade da LangChain para depurar, testar e monitorar aplicações de IA. Oferece rastreamento de chamadas LLM, avaliação de qualidade e análise de desempenho em produção.",
+    icon: "🔍",
+    image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=300&fit=crop",
+    link: "https://www.langchain.com/langsmith/observability",
+    isNew: true
+  },
+  {
+    title: "Langfuse",
+    description: "Observabilidade open source para aplicações LLM",
+    detailedDescription: "Langfuse é uma plataforma open source de observabilidade para LLMs, oferecendo rastreamento, análise de custos, avaliação de qualidade e monitoramento de latência. Alternativa gratuita e self-hosted ao LangSmith.",
+    icon: "🔬",
+    image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=300&fit=crop",
+    link: "https://langfuse.com/",
+    isNew: true
   }
 ];
