@@ -55,6 +55,7 @@ import FerramentasDesenvolvimento from "./pages/FerramentasDesenvolvimento";
 import AutomacaoIntegracao from "./pages/AutomacaoIntegracao";
 import BibliotecasComponentes from "./pages/BibliotecasComponentes";
 import GaleriasInspiracao from "./pages/GaleriasInspiracao";
+import RepositoriosGithub from "./pages/RepositoriosGithub";
 import PrivacyPolicy from "./pages/PrivacyPolicy";
 import TermsOfService from "./pages/TermsOfService";
 
