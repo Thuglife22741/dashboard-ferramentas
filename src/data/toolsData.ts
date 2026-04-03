@@ -29,6 +29,7 @@ import { ferramentasDesenvolvimentoTools } from './categories/desenvolvimento';
 import { automacaoIntegracaoTools } from './categories/automacao-integracao';
 import { bibliotecasComponentesTools } from './categories/bibliotecas-componentes';
 import { galeriasInspiracaoTools } from './categories/galerias-inspiracao';
+import { repositoriosGithubTools } from './categories/repositorios-github';
 
 export const categoriesData: Category[] = [
   {
@@ -218,5 +219,9 @@ export const categoriesData: Category[] = [
   {
     title: "Galerias de Inspiração & Dashboards",
     tools: galeriasInspiracaoTools
+  },
+  {
+    title: "Repositórios GitHub",
+    tools: repositoriosGithubTools
   }
 ];

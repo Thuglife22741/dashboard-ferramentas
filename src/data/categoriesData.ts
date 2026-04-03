@@ -321,5 +321,12 @@ export const categoriesData = [
     description: "Referências visuais e estruturais para design premium. Dashboards, landing pages e interfaces de alto nível.",
     icon: "🎨",
     image: "https://images.unsplash.com/photo-1558655146-364adaf1fcc9?w=400&h=600&fit=crop&auto=format"
+  },
+  {
+    id: 52,
+    title: "Repositórios GitHub",
+    description: "Coleção curada de repositórios open-source. Frameworks, bibliotecas e projetos úteis para desenvolvedores.",
+    icon: "📦",
+    image: "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?w=400&h=600&fit=crop&auto=format"
   }
 ];
