@@ -55,5 +55,68 @@ export const repositoriosGithubTools: Tool[] = [
     image: "https://opengraph.githubassets.com/1/vudovn/antigravity-kit",
     link: "https://github.com/vudovn/antigravity-kit",
     isNew: true
+  },
+  {
+    title: "Chatwoot",
+    description: "Plataforma open-source de atendimento ao cliente via chat, e-mail, redes sociais e mais",
+    detailedDescription: "Chatwoot é uma alternativa open-source ao Intercom e Zendesk, com suporte a múltiplos canais de comunicação, chatbots e integrações com diversas plataformas.",
+    icon: "💬",
+    image: "https://opengraph.githubassets.com/1/chatwoot/chatwoot",
+    link: "https://github.com/chatwoot/chatwoot",
+    isNew: true
+  },
+  {
+    title: "Coqui TTS",
+    description: "Biblioteca open-source de Text-to-Speech com modelos de voz de alta qualidade e clonagem de voz",
+    detailedDescription: "Coqui TTS é uma das melhores bibliotecas open-source para síntese de fala, suportando múltiplos idiomas, clonagem de voz e modelos state-of-the-art como XTTS.",
+    icon: "🗣️",
+    image: "https://opengraph.githubassets.com/1/coqui-ai/TTS",
+    link: "https://github.com/coqui-ai/TTS",
+    isNew: true
+  },
+  {
+    title: "Baileys",
+    description: "Biblioteca JavaScript/TypeScript para interagir com a API do WhatsApp Web sem Selenium",
+    detailedDescription: "Baileys permite criar bots e automações para WhatsApp usando Node.js, conectando-se diretamente à API do WhatsApp Web de forma leve e eficiente.",
+    icon: "📲",
+    image: "https://opengraph.githubassets.com/1/WhiskeySockets/Baileys",
+    link: "https://github.com/WhiskeySockets/Baileys",
+    isNew: true
+  },
+  {
+    title: "EasyPanel Woofed CRM",
+    description: "CRM open-source com integração WhatsApp, deploy fácil via EasyPanel",
+    detailedDescription: "Woofed CRM da comunidade HubConnect é um sistema de CRM com suporte a WhatsApp, facilitando o gerenciamento de leads e atendimento ao cliente com deploy simplificado.",
+    icon: "📊",
+    image: "https://opengraph.githubassets.com/1/comunidadehubconnect/easypanelwoofedcrm",
+    link: "https://github.com/comunidadehubconnect/easypanelwoofedcrm",
+    isNew: true
+  },
+  {
+    title: "WAHA",
+    description: "API HTTP para WhatsApp, self-hosted e pronta para produção",
+    detailedDescription: "WAHA (WhatsApp HTTP API) é uma solução self-hosted que expõe a API do WhatsApp via HTTP, ideal para integrar WhatsApp em sistemas e automações empresariais.",
+    icon: "🟢",
+    image: "https://opengraph.githubassets.com/1/devlikeapro/waha",
+    link: "https://github.com/devlikeapro/waha",
+    isNew: true
+  },
+  {
+    title: "Whaticket Community",
+    description: "Sistema de atendimento multi-usuário via WhatsApp, open-source e gratuito",
+    detailedDescription: "Whaticket é um sistema de tickets para WhatsApp que permite múltiplos atendentes, filas, chatbot e gerenciamento de conversas em uma interface web completa.",
+    icon: "🎫",
+    image: "https://opengraph.githubassets.com/1/canove/whaticket-community",
+    link: "https://github.com/canove/whaticket-community",
+    isNew: true
+  },
+  {
+    title: "Unoapi Cloud",
+    description: "API não-oficial do WhatsApp para envio de mensagens em massa e automações",
+    detailedDescription: "Unoapi Cloud é uma API open-source para WhatsApp que permite enviar e receber mensagens, ideal para automações e integrações com sistemas empresariais.",
+    icon: "☁️",
+    image: "https://opengraph.githubassets.com/1/clairton/unoapi-cloud",
+    link: "https://github.com/clairton/unoapi-cloud",
+    isNew: true
   }
 ];
