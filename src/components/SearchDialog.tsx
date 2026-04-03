@@ -62,6 +62,7 @@ const categoryRoutes: Record<string, string> = {
   "Automação e Integração": "/automacao-integracao",
   "Bibliotecas de Componentes": "/bibliotecas-componentes",
   "Galerias de Inspiração & Dashboards": "/galerias-inspiracao",
+  "Repositórios GitHub": "/repositorios-github",
 };
 
 // Build flat search index once

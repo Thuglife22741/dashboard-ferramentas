@@ -219,5 +219,9 @@ export const categoriesData: Category[] = [
   {
     title: "Galerias de Inspiração & Dashboards",
     tools: galeriasInspiracaoTools
+  },
+  {
+    title: "Repositórios GitHub",
+    tools: repositoriosGithubTools
   }
 ];

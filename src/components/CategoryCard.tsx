@@ -62,6 +62,7 @@ const CategoryCard = ({ title, description, icon, image }: CategoryCardProps) =>
       "Automação e Integração": "/automacao-integracao",
       "Bibliotecas de Componentes": "/bibliotecas-componentes",
       "Galerias de Inspiração & Dashboards": "/galerias-inspiracao",
+      "Repositórios GitHub": "/repositorios-github",
     };
     
     return routes[title] || "/";

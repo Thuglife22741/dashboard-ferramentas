@@ -117,6 +117,7 @@ const App = () => (
             <Route path="/automacao-integracao" element={<AutomacaoIntegracao />} />
             <Route path="/bibliotecas-componentes" element={<BibliotecasComponentes />} />
             <Route path="/galerias-inspiracao" element={<GaleriasInspiracao />} />
+            <Route path="/repositorios-github" element={<RepositoriosGithub />} />
             <Route path="/favoritos" element={<Favoritos />} />
             <Route path="/privacy-policy" element={<PrivacyPolicy />} />
             <Route path="/terms-of-service" element={<TermsOfService />} />
