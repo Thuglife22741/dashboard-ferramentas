@@ -29,6 +29,7 @@ import { ferramentasDesenvolvimentoTools } from './categories/desenvolvimento';
 import { automacaoIntegracaoTools } from './categories/automacao-integracao';
 import { bibliotecasComponentesTools } from './categories/bibliotecas-componentes';
 import { galeriasInspiracaoTools } from './categories/galerias-inspiracao';
+import { repositoriosGithubTools } from './categories/repositorios-github';
 
 export const categoriesData: Category[] = [
   {
