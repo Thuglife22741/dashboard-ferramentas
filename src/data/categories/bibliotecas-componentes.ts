@@ -64,5 +64,14 @@ export const bibliotecasComponentesTools: Tool[] = [
     image: "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=400&h=300&fit=crop",
     link: "https://bg.ibelick.com/",
     isNew: true
+  },
+  {
+    title: "Lightswind Blocks",
+    description: "Blocos de UI prontos para projetos modernos",
+    detailedDescription: "Lightswind Blocks oferece uma coleção de blocos de interface prontos para uso, incluindo seções de hero, pricing, features e mais. Ideal para acelerar o desenvolvimento de landing pages e aplicações web com componentes profissionais.",
+    icon: "🧱",
+    image: "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=400&h=300&fit=crop",
+    link: "https://pro.lightswind.com/blocks",
+    isNew: true
   }
 ];
